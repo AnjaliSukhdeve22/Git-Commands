@@ -1,6 +1,4 @@
-Great, Pawan! You’ve already seen the **basic Git commands**. Now let’s go deeper into **advanced and useful Git commands**, categorized for easy understanding.
 
----
 
 ## 🚀 All Other Important Git Commands (with Examples)
 
@@ -117,6 +115,4 @@ git log --oneline --graph --all
 # Great for visualizing all branches and commits
 ```
 
----
 
-Do you want a **cheat sheet PDF** for all these commands or a **hands-on mini project** to practice Git and GitHub?
